@@ -1,0 +1,86 @@
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/DatabaseModule01F
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/DatabaseModule01F.deps.json
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/DatabaseModule01F.runtimeconfig.json
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/DatabaseModule01F.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/DatabaseModule01F.pdb
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/MySqlConnector.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.csproj.AssemblyReference.cache
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.AssemblyInfoInputs.cache
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.AssemblyInfo.cs
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.csproj.CoreCompileInputs.cache
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.csproj.CopyComplete
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/refint/DatabaseModule01F.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.pdb
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/DatabaseModule01F.genruntimeconfig.cache
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/obj/Debug/net7.0/ref/DatabaseModule01F.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/SQLite-net.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/samuelsofela/Projects/DatabaseModule01F/DatabaseModule01F/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\DatabaseModule01F.exe
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\DatabaseModule01F.deps.json
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\DatabaseModule01F.runtimeconfig.json
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\DatabaseModule01F.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\DatabaseModule01F.pdb
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\MySqlConnector.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\SQLite-net.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.csproj.AssemblyReference.cache
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.AssemblyInfoInputs.cache
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.AssemblyInfo.cs
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.csproj.CoreCompileInputs.cache
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.csproj.CopyComplete
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\refint\DatabaseModule01F.dll
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.pdb
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\DatabaseModule01F.genruntimeconfig.cache
+C:\Repos\DatabaseModule01F 2\DatabaseModule01F\DatabaseModule01F\obj\Debug\net7.0\ref\DatabaseModule01F.dll
